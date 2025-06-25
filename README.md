@@ -11,7 +11,7 @@ A lightweight framework for deploying quantized deep learning models on edge dev
 **Requirements:**
 
 •   Python 3.7+
-•   TensorFlow/PyTorch (specify which one you're using)
+•   TensorFlow
 •   TensorRT (installation instructions can be found [here](link_to_tensorrt_install))
 
 **Usage:**
